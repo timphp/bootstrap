@@ -1,0 +1,28 @@
+Name: 
+Message: 
+Name: 
+Message: 
+Name: 
+Message: 
+Name: Name типа имя
+Message: Mess типа сообщение
+Name: Name типа имя
+Message: Mess типа сообщение
+Name: 3
+Message: 2
+Name: 3
+Message: 2
+Name: 3
+Message: 2
+Name: 3
+Message: 2
+Name: апр
+Message: апрвы
+Name: 
+Message: 
+Name: 
+Message: 
+Name: 
+Message: 
+Name: к3
+Message: 23к
