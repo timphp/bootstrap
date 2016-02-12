@@ -9,7 +9,7 @@
 $all="Name: ".$_POST['name']."\r\n"."Message: ".$_POST['message']."\r\n";
 $files="result.txt";
 if (!$handle = fopen($files, 'a')) {
-    echo "Невозможно открыть файл ($filename)";
+    echo "Невозможно открыть файл ($files)";
 exit;
 }
 if (fwrite($handle, $all) === FALSE) {
