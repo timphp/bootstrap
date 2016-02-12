@@ -3,7 +3,7 @@
     Message: <textarea rows="10" cols="20" name="message"></textarea>
     <input type="submit" value="Загрузить" />
 </form>
-<-- end html -->
+<!-- end html -->
 <?php echo print_r($_POST)
 ?>
 <?php
